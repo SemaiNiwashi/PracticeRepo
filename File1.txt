@@ -1,2 +1,4 @@
 TestFromProject1
 Test from project 2
+We're now simulating the addition of a new feature on the master branch.
+This is a complex feature with at least 5 words in it. Wow.
